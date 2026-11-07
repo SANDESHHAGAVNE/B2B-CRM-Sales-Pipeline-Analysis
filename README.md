@@ -7,7 +7,7 @@ This project analyzes the sales pipeline of a fictitious computer hardware compa
 ## 🛠️ Tools Used
 
 - **Database:** MySQL
-- **Interface:** pgAdmin 4
+- **Interface:** MySQL Workbench
 - **Concepts:** CTEs, Window Functions (LAG), Joins, Data Type Casting, Date Arithmetic, Data Cleaning.
 
 ## 🧹 Data Cleaning & Integrity
